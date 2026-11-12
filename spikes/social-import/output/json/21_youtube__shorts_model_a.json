@@ -1,0 +1,116 @@
+{
+  "reel_id": 21,
+  "url": "https://www.youtube.com/shorts/t3TtSfWRYhw",
+  "platform": "YouTube (Shorts)",
+  "quantities_location_declared": "nel video",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "PARTIAL",
+    "method": "yt-dlp",
+    "time_s": 2.212,
+    "has_caption": false,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 0,
+    "thumbnail_url": "https://i.ytimg.com/vi/t3TtSfWRYhw/maxresdefault.jpg",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 31.853,
+    "total_time_s": 34.065,
+    "input_tokens": 2042,
+    "output_tokens": 852,
+    "total_tokens": 2894,
+    "estimated_cost_usd": 0.002743,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Ribs al forno stile americano",
+        "porzioni": null,
+        "tempo": "2 ore circa",
+        "ingredienti": [
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "costine di maiale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "rub a base di paprika",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "paprika dolce",
+            "nota": "alternativa per il rub fatto in casa"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": "alternativa per il rub fatto in casa"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "pepe",
+            "nota": "alternativa per il rub fatto in casa"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "polvere d'aglio",
+            "nota": "alternativa per il rub fatto in casa"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "polvere di cipolla",
+            "nota": "alternativa per il rub fatto in casa, facoltativa"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "acqua",
+            "nota": "da mettere nella teglia sotto la griglia"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "salsa barbecue",
+            "nota": "generosa dose"
+          }
+        ],
+        "passaggi": [
+          "Prendere una teglia e preparare il condimento utilizzando un rub a base di paprika oppure creando un mix con paprika dolce, sale, pepe, polvere d'aglio e polvere di cipolla.",
+          "Condire le costine prima da un lato, dare una bella scrollatina, ripetere la procedura dall'altro lato e dare un'altra bella scrollatina.",
+          "Preparare il forno a 150 gradi ventilato.",
+          "Riempire la teglia sotto la griglia con dell'acqua per raccogliere i grassi che coleranno e mantenere l'umidità all'interno del forno.",
+          "Cuocere per circa mezz'ora, poi girare i pezzi per completare la rosatura su entrambi i lati.",
+          "Rimuovere i pezzi dalla griglia e spennellare con una generosa dose di salsa barbecue.",
+          "Coprire con carta forno e alluminio e continuare la cottura per un'altra ora e mezza a 200 gradi statico.",
+          "Controllare con uno stuzzicadenti che nella carne non ci sia resistenza.",
+          "Rispennellare con altra salsa barbecue e rimettere in forno a caramellare."
+        ],
+        "tag": [
+          "secondo piatto",
+          "carne",
+          "ribs",
+          "costine",
+          "americano"
+        ],
+        "da_verificare": [
+          "Quantità esatte degli ingredienti non specificate nel video",
+          "Tempi di cottura parzialmente indicati in modo discorsivo (mezz'ora iniziale, poi altra ora e mezza)"
+        ]
+      }
+    ],
+    "warnings_count": 2
+  }
+}

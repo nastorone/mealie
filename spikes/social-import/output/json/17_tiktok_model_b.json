@@ -1,0 +1,169 @@
+{
+  "reel_id": 17,
+  "url": "https://www.tiktok.com/@sebastian_fitarau/video/7412221103088749857?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+  "platform": "TikTok",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "mobile_scrape_fallback",
+    "time_s": 1.798,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 2183,
+    "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oAG6uNecQkSvAWxegPeQGgGfNviuE8MdIg98ju~tplv-tiktokx-origin.image?dr=10395&x-expires=1794664800&x-signature=RJmP9bpmGpCsavjYSBoaRAxiag4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=55bbe6a9&idc=useast2b",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": true,
+    "latency_s": 18.701,
+    "total_time_s": 20.499,
+    "input_tokens": 2387,
+    "output_tokens": 1484,
+    "total_tokens": 4808,
+    "estimated_cost_usd": 0.016937,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Lasagne vegetariane con crespelle agli spinaci",
+        "porzioni": "4-6",
+        "tempo": "30 minuti di cottura in forno (+30 minuti di riposo impasto)",
+        "ingredienti": [
+          {
+            "quantita": "200",
+            "unita": "g",
+            "alimento": "farina",
+            "nota": "per le crespelle"
+          },
+          {
+            "quantita": "2",
+            "unita": null,
+            "alimento": "uova",
+            "nota": "per le crespelle"
+          },
+          {
+            "quantita": "300",
+            "unita": "ml",
+            "alimento": "latte",
+            "nota": "per le crespelle"
+          },
+          {
+            "quantita": "80",
+            "unita": "g",
+            "alimento": "spinaci freschi",
+            "nota": "1 mazzetto; cotti e strizzati per le crespelle"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": "q.b."
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "pepe",
+            "nota": "q.b."
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "burro",
+            "nota": "per ungere la padella"
+          },
+          {
+            "quantita": "2",
+            "unita": null,
+            "alimento": "zucchine",
+            "nota": "per il ripieno"
+          },
+          {
+            "quantita": "2",
+            "unita": null,
+            "alimento": "carote",
+            "nota": "medie, per il ripieno"
+          },
+          {
+            "quantita": "3",
+            "unita": null,
+            "alimento": "coste di sedano",
+            "nota": "per il ripieno"
+          },
+          {
+            "quantita": "1",
+            "unita": "spicchio",
+            "alimento": "aglio",
+            "nota": "per il ripieno"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio extravergine d'oliva",
+            "nota": "q.b."
+          },
+          {
+            "quantita": "40",
+            "unita": "g",
+            "alimento": "burro",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "40",
+            "unita": "g",
+            "alimento": "farina",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "500",
+            "unita": "ml",
+            "alimento": "latte",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "noce moscata",
+            "nota": "q.b. per la besciamella"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "parmigiano grattugiato",
+            "nota": "q.b."
+          }
+        ],
+        "passaggi": [
+          "Frullare gli spinaci già cotti e ben strizzati con il latte fino a ottenere un composto omogeneo.",
+          "Aggiungere le uova, la farina, il sale e il pepe al composto di spinaci e mescolare bene.",
+          "Lasciare riposare l'impasto delle crespelle in frigorifero per almeno 30 minuti.",
+          "Scaldare una padella antiaderente e ungerla con del burro o dell'olio.",
+          "Versare un mestolo di impasto nella padella e cuocere le crespelle da entrambi i lati fino a doratura, ripetendo l'operazione fino a esaurimento dell'impasto.",
+          "Tagliare le zucchine, le carote e il sedano a listarelle.",
+          "In una padella far saltare le verdure con uno spicchio d'aglio, olio, sale e pepe fino a quando saranno tenere, poi tenerle da parte.",
+          "Per la besciamella, sciogliere il burro in una pentola, aggiungere la farina e mescolare fino a formare un roux, insaporendo con sale, pepe e noce moscata.",
+          "Versare il latte poco alla volta continuando a mescolare fino a quando la besciamella si sarà addensata.",
+          "Preriscaldare il forno a 180°C.",
+          "Distribuire uno strato di besciamella sul fondo di una teglia.",
+          "Alternare strati di crespelle, besciamella, ripieno di verdure e parmigiano grattugiato fino a esaurire gli ingredienti, terminando con besciamella e parmigiano.",
+          "Infornare le lasagne a 180°C per circa 30 minuti o finché la superficie non risulterà dorata.",
+          "Lasciare riposare per qualche minuto prima di servire."
+        ],
+        "tag": [
+          "lasagne",
+          "vegetariano",
+          "crespelle",
+          "primo piatto",
+          "verdure"
+        ],
+        "da_verificare": [
+          "Negli ingredienti vengono indicati 'spinaci freschi circa 80g', mentre al passaggio 1 delle crespelle si specifica 'spinaci già cotti e strizzati': verificare se gli 80g si riferiscono al peso da crudi o da cotti.",
+          "Negli ingredienti per le crespelle è segnato 'burro per ungere la padella', mentre al passaggio 4 della preparazione si indica 'ungi con un po' di olio evo'."
+        ]
+      }
+    ],
+    "warnings_count": 2
+  }
+}

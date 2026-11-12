@@ -1,0 +1,135 @@
+{
+  "reel_id": 22,
+  "url": "https://www.youtube.com/watch?v=gLAKdTiQRwI",
+  "platform": "YouTube (video)",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 4.926,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 971,
+    "thumbnail_url": "https://i.ytimg.com/vi_webp/gLAKdTiQRwI/maxresdefault.webp",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 11.927,
+    "total_time_s": 16.853,
+    "input_tokens": 9180,
+    "output_tokens": 796,
+    "total_tokens": 9976,
+    "estimated_cost_usd": 0.004744,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Lentil Chips",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "1",
+            "unita": "cup",
+            "alimento": "lentils",
+            "nota": "150g / 5.3oz"
+          },
+          {
+            "quantita": "1",
+            "unita": "cup",
+            "alimento": "water",
+            "nota": "250ml / 8.5 fl oz"
+          },
+          {
+            "quantita": "1",
+            "unita": "tsp",
+            "alimento": "paprika",
+            "nota": null
+          },
+          {
+            "quantita": "2",
+            "unita": "tbsp",
+            "alimento": "nutritional yeast",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "tsp",
+            "alimento": "garlic powder",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "tsp",
+            "alimento": "salt",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "tbsp",
+            "alimento": "olive oil",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "cup",
+            "alimento": "coconut milk",
+            "nota": "250ml / 8.5 fl oz, for sauce"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "lemon juice",
+            "nota": "a little, for sauce"
+          },
+          {
+            "quantita": null,
+            "unita": "pinch",
+            "alimento": "salt",
+            "nota": "for sauce"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "black pepper",
+            "nota": "to taste, for sauce"
+          },
+          {
+            "quantita": "1",
+            "unita": "tbsp",
+            "alimento": "water",
+            "nota": "for sauce"
+          },
+          {
+            "quantita": "1",
+            "unita": "tsp",
+            "alimento": "starch",
+            "nota": "for sauce"
+          }
+        ],
+        "passaggi": [
+          "Cuocere o frullare gli ingredienti delle chips come mostrato nel video.",
+          "Formare le chips e procedere con la cottura indicata nel video.",
+          "Preparare la salsa mescolando cocco, limone, sale, pepe, acqua e amido."
+        ],
+        "tag": [
+          "lentilchips",
+          "vegansnacks",
+          "highprotein",
+          "glutenfree",
+          "healthyrecipes",
+          "homemadechips",
+          "easyrecipes"
+        ],
+        "da_verificare": [
+          "I passaggi dettagliati della preparazione non sono scritti nella didascalia e devono essere dedotti dal video."
+        ]
+      }
+    ],
+    "warnings_count": 1
+  }
+}

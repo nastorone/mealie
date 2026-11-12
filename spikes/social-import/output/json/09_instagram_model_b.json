@@ -1,0 +1,87 @@
+{
+  "reel_id": 9,
+  "url": "https://www.instagram.com/p/DYzGn8kIfxy/",
+  "platform": "Instagram",
+  "quantities_location_declared": "caso difficile: non ci sono le quantità, nè i passaggi, si possono derivare?",
+  "notes_declared": "non ci sono le quantità, nè i passaggi, si possono derivare?",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 3.519,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 240,
+    "thumbnail_url": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/705957512_18081999104548671_8060385910154840331_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzkwNTQ5NDQzNTIyOTcyNzg1ODE4MDgxOTk5MTAxNTQ4Njcx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=SonNswv8vdsQ7kNvwFZnkfA&_nc_oc=AdrqpUgnqHF68dJb0ijEdNBm5RNGvJI6zivxtArGw7gX1ZnM9Ik1lSx8ylihzCaFEdqp1eT9pXxRF7Zxe-KBiuXL&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=hyYyaa_Ebjlnq3GcPqt7_g&_nc_ss=70689&oh=00_AQRe2bWPastCWpgXedMMajTusZ8JRG666pzfMii3-uVngw&oe=6AFBACDF",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": true,
+    "latency_s": 11.031,
+    "total_time_s": 14.55,
+    "input_tokens": 1279,
+    "output_tokens": 285,
+    "total_tokens": 2694,
+    "estimated_cost_usd": 0.004483,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Linguine fredde, assoluto di gamberi rossi",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Linguine",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Gamberi rossi",
+            "nota": "code e teste per la bisque"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Olio d'oliva",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Limone",
+            "nota": null
+          }
+        ],
+        "passaggi": [
+          "Preparare una bisque di gambero rosso concentrata e farla raffreddare.",
+          "Condire le code di gambero rosso crude con sale, olio e limone.",
+          "Cuocere le linguine e mantecarle a freddo con la bisque di gambero raffreddata, poi impiattare insieme alle code di gambero condite."
+        ],
+        "tag": [
+          "primo piatto",
+          "pasta fredda",
+          "gamberi rossi",
+          "gourmet",
+          "pasta"
+        ],
+        "da_verificare": [
+          "Quantità degli ingredienti non specificate nel post",
+          "Numero di porzioni non indicato",
+          "Tempi di cottura e dettagli sulla preparazione della bisque omessi"
+        ]
+      }
+    ],
+    "warnings_count": 3
+  }
+}

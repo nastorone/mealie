@@ -1,0 +1,647 @@
+{
+  "reel_id": 4,
+  "url": "https://www.instagram.com/p/Daz7ohNDDEH/?img_index=1",
+  "platform": "Instagram (carosello)",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "caso difficile: tante ricette in un unico carousel, tutte le quantità sono indicate nella descrizione",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 9.781,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": false,
+    "caption_char_len": 2148,
+    "thumbnail_url": null,
+    "carousel_images_count": 9
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": true,
+    "latency_s": 44.146,
+    "total_time_s": 53.927,
+    "input_tokens": 2261,
+    "output_tokens": 2573,
+    "total_tokens": 9867,
+    "estimated_cost_usd": 0.026548,
+    "recipes_count": 9,
+    "recipes": [
+      {
+        "titolo": "Melanzane gratinate",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "2",
+            "unita": null,
+            "alimento": "melanzane",
+            "nota": null
+          },
+          {
+            "quantita": "300",
+            "unita": "g",
+            "alimento": "pomodorini",
+            "nota": null
+          },
+          {
+            "quantita": "200",
+            "unita": "g",
+            "alimento": "pane",
+            "nota": null
+          },
+          {
+            "quantita": "60",
+            "unita": "g",
+            "alimento": "parmigiano grattugiato",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "basilico",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio",
+            "nota": null
+          }
+        ],
+        "passaggi": [],
+        "tag": [
+          "melanzane",
+          "gratinate",
+          "vegetariano",
+          "secondo piatto",
+          "contorno"
+        ],
+        "da_verificare": [
+          "Passaggi di preparazione non forniti nella didascalia o nell'audio",
+          "Quantità di basilico, sale e olio non specificate",
+          "Porzioni non indicate"
+        ]
+      },
+      {
+        "titolo": "Polpette di melanzane",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "600",
+            "unita": "g",
+            "alimento": "melanzane",
+            "nota": null
+          },
+          {
+            "quantita": "150",
+            "unita": "g",
+            "alimento": "pomodorini",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "basilico",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": null,
+            "alimento": "uovo",
+            "nota": null
+          },
+          {
+            "quantita": "150",
+            "unita": "g",
+            "alimento": "pane",
+            "nota": "precedentemente ammollato nel latte"
+          },
+          {
+            "quantita": "60",
+            "unita": "g",
+            "alimento": "parmigiano",
+            "nota": null
+          },
+          {
+            "quantita": "40",
+            "unita": "g",
+            "alimento": "pangrattato",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio",
+            "nota": null
+          }
+        ],
+        "passaggi": [],
+        "tag": [
+          "polpette",
+          "melanzane",
+          "vegetariano",
+          "secondo piatto"
+        ],
+        "da_verificare": [
+          "Passaggi di preparazione non forniti nella didascalia o nell'audio",
+          "Quantità di basilico, sale e olio non specificate",
+          "Porzioni non indicate"
+        ]
+      },
+      {
+        "titolo": "Bastoncini di melanzane croccanti",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "2",
+            "unita": null,
+            "alimento": "melanzane",
+            "nota": null
+          },
+          {
+            "quantita": "70",
+            "unita": "g",
+            "alimento": "pangrattato",
+            "nota": "utilizzato anche di mais"
+          },
+          {
+            "quantita": "80",
+            "unita": "g",
+            "alimento": "parmigiano grattugiato",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "erbe aromatiche",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio",
+            "nota": null
+          }
+        ],
+        "passaggi": [],
+        "tag": [
+          "melanzane",
+          "bastoncini",
+          "antipasto",
+          "contorno",
+          "vegetariano"
+        ],
+        "da_verificare": [
+          "Passaggi di preparazione non forniti nella didascalia o nell'audio",
+          "Quantità di erbe aromatiche, sale e olio non specificate",
+          "Porzioni non indicate"
+        ]
+      },
+      {
+        "titolo": "Involtini di moussaka",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "3-4",
+            "unita": null,
+            "alimento": "melanzane lunghe",
+            "nota": null
+          },
+          {
+            "quantita": "500",
+            "unita": "g",
+            "alimento": "macinato di manzo",
+            "nota": null
+          },
+          {
+            "quantita": "2",
+            "unita": "cucchiai",
+            "alimento": "concentrato di pomodoro",
+            "nota": null
+          },
+          {
+            "quantita": "300",
+            "unita": "ml",
+            "alimento": "passata di pomodoro",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "parmigiano",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio",
+            "nota": null
+          },
+          {
+            "quantita": "50",
+            "unita": "g",
+            "alimento": "burro",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "50",
+            "unita": "g",
+            "alimento": "farina",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "450",
+            "unita": "ml",
+            "alimento": "latte",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": "per la besciamella"
+          }
+        ],
+        "passaggi": [],
+        "tag": [
+          "involtini",
+          "moussaka",
+          "melanzane",
+          "secondo piatto"
+        ],
+        "da_verificare": [
+          "Passaggi di preparazione non forniti nella didascalia o nell'audio",
+          "Quantità di parmigiano, sale e olio non specificate",
+          "Porzioni non indicate"
+        ]
+      },
+      {
+        "titolo": "Melanzane a portafoglio",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "2",
+            "unita": null,
+            "alimento": "melanzane grandi",
+            "nota": null
+          },
+          {
+            "quantita": "200",
+            "unita": "g",
+            "alimento": "prosciutto cotto",
+            "nota": null
+          },
+          {
+            "quantita": "200",
+            "unita": "g",
+            "alimento": "provola",
+            "nota": null
+          },
+          {
+            "quantita": "2",
+            "unita": null,
+            "alimento": "uova",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "panko",
+            "nota": "o pangrattato"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio",
+            "nota": null
+          }
+        ],
+        "passaggi": [],
+        "tag": [
+          "melanzane",
+          "portafoglio",
+          "secondo piatto"
+        ],
+        "da_verificare": [
+          "Passaggi di preparazione non forniti nella didascalia o nell'audio",
+          "Quantità di panko/pangrattato, sale e olio non specificate",
+          "Porzioni non indicate"
+        ]
+      },
+      {
+        "titolo": "Spaghetti di melanzane",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "1",
+            "unita": null,
+            "alimento": "melanzana lunga",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "farina di riso",
+            "nota": null
+          },
+          {
+            "quantita": "100",
+            "unita": "ml",
+            "alimento": "passata di pomodoro",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": null,
+            "alimento": "burrata",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "parmigiano grattugiato",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio",
+            "nota": null
+          }
+        ],
+        "passaggi": [],
+        "tag": [
+          "spaghetti",
+          "melanzane",
+          "primo piatto",
+          "vegetariano"
+        ],
+        "da_verificare": [
+          "Passaggi di preparazione non forniti nella didascalia o nell'audio",
+          "Quantità di farina di riso, parmigiano, sale e olio non specificate",
+          "Porzioni non indicate"
+        ]
+      },
+      {
+        "titolo": "Cotolette di melanzane",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "melanzane",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "passata di pomodoro",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "mozzarella",
+            "nota": "strizzata benissimo"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "farina",
+            "nota": "per la panatura"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "uova",
+            "nota": "per la panatura"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "panko",
+            "nota": "o pangrattato, per la panatura"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "paprika",
+            "nota": "per la panatura"
+          }
+        ],
+        "passaggi": [],
+        "tag": [
+          "cotolette",
+          "melanzane",
+          "secondo piatto",
+          "vegetariano"
+        ],
+        "da_verificare": [
+          "Passaggi di preparazione non forniti nella didascalia o nell'audio",
+          "Quantità di tutti gli ingredienti non specificate",
+          "Porzioni non indicate"
+        ]
+      },
+      {
+        "titolo": "Mezzelune alla parmigiana",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "melanzane",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "passata di pomodoro",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "provola",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "basilico",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "farina",
+            "nota": "per la panatura"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "uova",
+            "nota": "per la panatura"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "panko",
+            "nota": "per la panatura"
+          }
+        ],
+        "passaggi": [],
+        "tag": [
+          "mezzelune",
+          "parmigiana",
+          "melanzane",
+          "secondo piatto",
+          "vegetariano"
+        ],
+        "da_verificare": [
+          "Passaggi di preparazione non forniti nella didascalia o nell'audio",
+          "Quantità di tutti gli ingredienti non specificate",
+          "Porzioni non indicate"
+        ]
+      },
+      {
+        "titolo": "Fagottini scenografici",
+        "porzioni": null,
+        "tempo": "20 minuti",
+        "ingredienti": [
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "pasta sfoglia rettangolare",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "melanzane",
+            "nota": "grigliata"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "passata di pomodoro",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "provola",
+            "nota": "a pezzetto"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "parmigiano",
+            "nota": "grattugiato"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "basilico",
+            "nota": "una foglia per fagottino"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "uovo",
+            "nota": "per spennellare"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "latte",
+            "nota": "per spennellare"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "semi di sesamo",
+            "nota": "opzionali"
+          }
+        ],
+        "passaggi": [
+          "Tagliare la pasta sfoglia rettangolare ricavando dei quadrati di circa 14x14 cm.",
+          "Incidere i quadrati di pasta sfoglia lungo i bordi come mostrato nel video.",
+          "Farcire al centro con una fetta di melanzana grigliata, salsa di pomodoro, un pezzetto di provola, una spolverata di parmigiano e una foglia di basilico.",
+          "Sigillare il fagottino richiudendolo con le strisce di sfoglia.",
+          "Spennellare i fagottini con uovo e latte sbattuti.",
+          "Aggiungere a piacere i semi di sesamo sulla superficie.",
+          "Cuocere in forno a 180°C per circa 20 minuti."
+        ],
+        "tag": [
+          "fagottini",
+          "pasta sfoglia",
+          "melanzane",
+          "parmigiana",
+          "antipasto",
+          "vegetariano"
+        ],
+        "da_verificare": [
+          "Quantità esatte degli ingredienti non specificate",
+          "Porzioni non indicate"
+        ]
+      }
+    ],
+    "warnings_count": 26
+  }
+}

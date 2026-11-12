@@ -1,0 +1,150 @@
+{
+  "reel_id": 7,
+  "url": "https://www.instagram.com/p/Dc-58J5AIDX/",
+  "platform": "Instagram",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 5.482,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 366,
+    "thumbnail_url": "https://scontent-mxp1-1.cdninstagram.com/v/t51.82787-15/799277789_18165447604478229_5254195884308305839_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4MDg3Mzk0MzA4MTg0NDk1MTE4MTY1NDQ3NjAxNDc4MjI5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTcuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=_qP_6ePfpt8Q7kNvwFfLT8Z&_nc_oc=Adq_F9Vqi3R5BXcQ9vmtXn_1CB3pEkAkm3KqQj684ibCTaFOgKtt9VthBOqtLLFgWf4ieneeze8xkINLdxl75LSD&_nc_zt=23&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_gid=m0Yrwf21dLLr8qa0LNhQbA&_nc_ss=70689&oh=00_AQTYL9-MduIVWFi3Th6LLU3lOC5HEBD_isQlzqx6rt5xwQ&oe=6AFBA7AE",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": true,
+    "latency_s": 19.144,
+    "total_time_s": 24.626,
+    "input_tokens": 4824,
+    "output_tokens": 1317,
+    "total_tokens": 7880,
+    "estimated_cost_usd": 0.019089,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Risotto al pomodoro arrosto con crema di ricotta di capra, nocciole e maggiorana",
+        "porzioni": "4 persone",
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "350",
+            "unita": "g",
+            "alimento": "riso Carnaroli",
+            "nota": null
+          },
+          {
+            "quantita": "800",
+            "unita": "g",
+            "alimento": "pomodori",
+            "nota": "pixel, San Marzano o ciliegini/datterini"
+          },
+          {
+            "quantita": "100",
+            "unita": "g",
+            "alimento": "burro",
+            "nota": null
+          },
+          {
+            "quantita": "100",
+            "unita": "g",
+            "alimento": "parmigiano",
+            "nota": "grattugiato"
+          },
+          {
+            "quantita": "300",
+            "unita": "g",
+            "alimento": "ricotta di capra",
+            "nota": "o ricotta a scelta"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio extravergine d'oliva",
+            "nota": "q.b."
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": "q.b."
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "pepe",
+            "nota": "q.b."
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "zucchero",
+            "nota": "abbondante, per la cottura dei pomodori"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "limone",
+            "nota": "scorza non trattata e qualche goccia di succo"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "aceto bianco",
+            "nota": "q.b."
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "salsa di soia",
+            "nota": "q.b."
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "nocciole",
+            "nota": "sbriciolate"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "maggiorana",
+            "nota": "foglioline fresche"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "acqua calda",
+            "nota": "per la cottura del riso"
+          }
+        ],
+        "passaggi": [
+          "Tagliare a metà i pomodori e disporli su una teglia. Condire con olio, sale, pepe e abbondante zucchero. Cuocere in forno a 190°C per circa 30-45 minuti (oppure in friggitrice ad aria) finché non risultano caramellati.",
+          "Setacciare la ricotta con un colino per renderla liscia, quindi lavorarla con un filo d'olio, sale, pepe, la scorza grattugiata di un limone non trattato e qualche goccia di aceto per intensificare il sapore. Tenere da parte.",
+          "Tenere da parte qualche pomodorino arrosto intero per la guarnizione finale e frullare i restanti con sale, pepe, olio, qualche goccia di succo di limone e un goccio d'acqua fino a ottenere una crema liscia.",
+          "Tostare il riso a secco in una casseruola dai bordi alti aggiungendo subito il sale. Quando il riso è molto caldo, iniziare la cottura sfumando con acqua calda.",
+          "Cuocere il riso per circa 12 minuti mantenendo un bollore costante. A 4 minuti dalla fine della cottura, incorporare la crema di pomodoro arrosto.",
+          "Spegnere il fuoco e lasciar riposare il risotto per circa 90 secondi.",
+          "Mantecare aggiungendo un goccio di salsa di soia, qualche goccia di aceto, il burro e il parmigiano, saltando energicamente per incorporare aria e rendere il risotto cremoso.",
+          "Stendere il risotto a specchio sul piatto e completare con la crema di pomodoro avanzata, i pomodori arrosto interi, ciuffi di crema di ricotta, nocciole sbriciolate, scorza di limone grattugiata e foglioline di maggiorana fresca."
+        ],
+        "tag": [
+          "primo piatto",
+          "risotto",
+          "pomodoro",
+          "estate"
+        ],
+        "da_verificare": [
+          "Mancano le quantità esatte per olio, sale, pepe, zucchero, limone, aceto, salsa di soia, nocciole e maggiorana (indicate solo q.b. o a vista nel video).",
+          "Tempo totale di preparazione non specificato esplicitamente."
+        ]
+      }
+    ],
+    "warnings_count": 2
+  }
+}

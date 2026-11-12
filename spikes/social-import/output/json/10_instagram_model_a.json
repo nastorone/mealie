@@ -1,0 +1,182 @@
+{
+  "reel_id": 10,
+  "url": "https://www.instagram.com/p/C_Qbt1aszBe/",
+  "platform": "Instagram",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 4.721,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 1887,
+    "thumbnail_url": "https://scontent-mxp2-1.cdninstagram.com/v/t51.71878-15/505772177_1457373721936969_6611485320556045301_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=MzQ0NTM3NTYxMTkyNjk0OTk4MjE0NTczNzM3MTE5MzY5NzA%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=WzMarSOKfK4Q7kNvwF_JVth&_nc_oc=Ado8ffGlnVQAhppHQGF6R_bgy9KJsBYd6TApip5nah_p2kwSGwUEQxzYPkdBo6C5FLJvmjviYV51P_0DlDdELEkG&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=vsdqOy5tSPBzpoQ94eCVwQ&_nc_ss=70689&oh=00_AQR703nXkD15M3HEuhruPC6qenEmYwRAavhGFtfTQubX0Q&oe=6AFB95C7",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 7.579,
+    "total_time_s": 12.3,
+    "input_tokens": 2841,
+    "output_tokens": 1424,
+    "total_tokens": 4265,
+    "estimated_cost_usd": 0.004412,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Patate Pavè con Tartare di Manzo",
+        "porzioni": "8 persone",
+        "tempo": "45 minuti di cottura + riposo di una notte",
+        "ingredienti": [
+          {
+            "quantita": "100",
+            "unita": "g",
+            "alimento": "burro",
+            "nota": null
+          },
+          {
+            "quantita": "3",
+            "unita": "spicchi",
+            "alimento": "aglio",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "rametto",
+            "alimento": "rosmarino",
+            "nota": null
+          },
+          {
+            "quantita": "30",
+            "unita": "g",
+            "alimento": "farina",
+            "nota": null
+          },
+          {
+            "quantita": "700",
+            "unita": "ml",
+            "alimento": "latte",
+            "nota": null
+          },
+          {
+            "quantita": "50",
+            "unita": "g",
+            "alimento": "parmigiano reggiano",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": "q.b.",
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": "q.b.",
+            "alimento": "pepe",
+            "nota": null
+          },
+          {
+            "quantita": "1200",
+            "unita": "g",
+            "alimento": "patate",
+            "nota": "affettate sottilmente"
+          },
+          {
+            "quantita": "50",
+            "unita": "ml",
+            "alimento": "olio evo",
+            "nota": "per l'emulsione"
+          },
+          {
+            "quantita": "30",
+            "unita": "ml",
+            "alimento": "olio di girasole",
+            "nota": null
+          },
+          {
+            "quantita": "50",
+            "unita": "ml",
+            "alimento": "latte",
+            "nota": "per l'emulsione"
+          },
+          {
+            "quantita": "1",
+            "unita": "cucchiaino",
+            "alimento": "miele",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "pizzico",
+            "alimento": "sale",
+            "nota": "per l'emulsione"
+          },
+          {
+            "quantita": "500",
+            "unita": "g",
+            "alimento": "filetto di manzo",
+            "nota": null
+          },
+          {
+            "quantita": "15",
+            "unita": "g",
+            "alimento": "pomodori secchi",
+            "nota": "sott'olio"
+          },
+          {
+            "quantita": "15",
+            "unita": "g",
+            "alimento": "cetriolini",
+            "nota": "sott'aceto"
+          },
+          {
+            "quantita": "2",
+            "unita": "cucchiaini",
+            "alimento": "senape in grani",
+            "nota": null
+          },
+          {
+            "quantita": "3",
+            "unita": null,
+            "alimento": "tuorli",
+            "nota": null
+          },
+          {
+            "quantita": "2",
+            "unita": "cucchiai",
+            "alimento": "olio evo",
+            "nota": "per la tartare"
+          },
+          {
+            "quantita": "30",
+            "unita": "g",
+            "alimento": "erba cipollina",
+            "nota": null
+          }
+        ],
+        "passaggi": [
+          "Preparare la besciamella noisette: cuocete a fiamma bassa aglio e rosmarino nel burro. Quando è color nocciola, aggiungete la farina e cuocete per 3 minuti. Versate il latte bollente e mescolate. Una volta denso, incorporate il parmigiano e regolate di sale e pepe.",
+          "Preparare le patate pavè: affettate sottilmente le patate, immergetele in acqua, poi asciugatele. Cospargetele di besciamella e cuocetele a 160°C per 45 minuti in forno ventilato all'interno di una teglia 20x15 cm.",
+          "Pressate con un peso, lasciate riposare una notte e raffreddate in frigo.",
+          "Tagliate un rettangolo di patate pavè e rosolate su tutti i lati a fiamma media. Aggiungete fior di sale.",
+          "Preparare l'emulsione: frullate tutti gli ingredienti in un mixer (aggiungendo l'olio gradualmente per non far impazzire la finta maionese) e mettete in un biberon o sac à poche.",
+          "Preparare la tartare: tagliate a cubotti il filetto, tagliate finemente i pomodori e cetriolini e aggiungete alla tartare assieme a tuorli, senape, olio evo e sale.",
+          "Impiattamento: aggiungete una montagna di tartare sulla patata pavè, l'emulsione di olio evo e finite con tanta erba cipollina."
+        ],
+        "tag": [
+          "patate",
+          "tartare",
+          "antipasto",
+          "secondo piatto"
+        ],
+        "da_verificare": []
+      }
+    ],
+    "warnings_count": 0
+  }
+}

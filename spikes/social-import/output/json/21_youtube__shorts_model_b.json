@@ -1,0 +1,114 @@
+{
+  "reel_id": 21,
+  "url": "https://www.youtube.com/shorts/t3TtSfWRYhw",
+  "platform": "YouTube (Shorts)",
+  "quantities_location_declared": "nel video",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "PARTIAL",
+    "method": "yt-dlp",
+    "time_s": 2.212,
+    "has_caption": false,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 0,
+    "thumbnail_url": "https://i.ytimg.com/vi/t3TtSfWRYhw/maxresdefault.jpg",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": true,
+    "latency_s": 49.448,
+    "total_time_s": 51.66,
+    "input_tokens": 2042,
+    "output_tokens": 853,
+    "total_tokens": 4358,
+    "estimated_cost_usd": 0.01074,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Ribs al forno alla maniera americana",
+        "porzioni": null,
+        "tempo": "Circa 2 ore e 15 minuti più caramellatura",
+        "ingredienti": [
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Costine di maiale (ribs / spuntature)",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Paprika dolce",
+            "nota": "per il rub"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Sale",
+            "nota": "per il rub"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Pepe",
+            "nota": "per il rub"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Aglio in polvere",
+            "nota": "per il rub"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Cipolla in polvere",
+            "nota": "opzionale, per il rub"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Salsa barbecue",
+            "nota": "generosa dose"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Acqua",
+            "nota": "da mettere nella teglia sotto la griglia"
+          }
+        ],
+        "passaggi": [
+          "Preparare il rub mescolando paprika dolce, sale, pepe, polvere d'aglio ed eventualmente polvere di cipolla.",
+          "Condire le costine di maiale uniformemente da entrambi i lati con il rub e dare una leggera scrollata per eliminare l'eccesso.",
+          "Preriscaldare il forno a 150°C ventilato.",
+          "Mettere dell'acqua in una teglia da posizionare sotto la griglia del forno per raccogliere i grassi e mantenere l'umidità.",
+          "Disporre le costine sulla griglia sopra la teglia e cuocere per 30 minuti, poi girarle dall'altro lato per completare la rosolatura.",
+          "Togliere le costine dal forno e spennellarle abbondantemente con la salsa barbecue.",
+          "Avvolgere e coprire le costine con carta forno e foglio di alluminio.",
+          "Cuocere nuovamente in forno a 200°C in modalità statica per 1 ora e mezza.",
+          "Verificare la cottura infilzando la carne con uno stuzzicadenti: non deve esserci resistenza.",
+          "Rimuovere la copertura di carta forno e alluminio, spennellare ancora con salsa barbecue e rimettere in forno per far caramellare."
+        ],
+        "tag": [
+          "secondo piatto",
+          "carne",
+          "costine",
+          "ribs",
+          "al forno",
+          "barbecue"
+        ],
+        "da_verificare": [
+          "Quantità delle costine e delle spezie del rub non specificate.",
+          "Quantità di salsa barbecue non specificata.",
+          "Numero di porzioni non indicato.",
+          "Tempo esatto della caramellatura finale in forno non specificato."
+        ]
+      }
+    ],
+    "warnings_count": 4
+  }
+}

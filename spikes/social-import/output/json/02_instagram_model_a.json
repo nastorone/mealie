@@ -1,0 +1,113 @@
+{
+  "reel_id": 2,
+  "url": "https://www.instagram.com/p/DfctgEEMNVY/",
+  "platform": "Instagram",
+  "quantities_location_declared": "non ci sono le quantità",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 4.914,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 177,
+    "thumbnail_url": "https://scontent-mxp2-1.cdninstagram.com/v/t15.5256-10/896717318_1663202765456372_1663064757908286239_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAyNTI5MjI4MjQ0MzkxMjUzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZmlyc3RfZnJhbWVfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=8avM1f1emCAQ7kNvwGWpZA9&_nc_oc=AdoE4caJZWom6lVbGmNUE5orFPhzp4FkJR4laD_lRFRYZ8z78c0Eg74ZQgW1qtxZjX2H-jO8duZdwaERulp3K0Gw&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=xnpuzjXIxNN8SIg9Q2830Q&_nc_ss=70689&oh=00_AQRegwa9oQ25RgVKsUH9V0e673aG6ShKZJi9N4RlZTEfvw&oe=6AFBB833",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 32.171,
+    "total_time_s": 37.085,
+    "input_tokens": 1304,
+    "output_tokens": 632,
+    "total_tokens": 1936,
+    "estimated_cost_usd": 0.001971,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Basque Cheesecake",
+        "porzioni": null,
+        "tempo": "40 minuti",
+        "ingredienti": [
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "cream cheese",
+            "nota": "good quality, softened"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sugar",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "eggs",
+            "nota": "added one at a time"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "lemon",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "salt",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "vanilla",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "flour",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "cream",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "crumbled paper",
+            "nota": "per la cottura"
+          }
+        ],
+        "passaggi": [
+          "Lavora il cream cheese a bassa velocità fino a quando non si è ammorbidito.",
+          "Aggiungi lo zucchero e amalgama bene.",
+          "Raschia i lati della ciotola e aggiungi le uova una alla volta, senza avere fretta.",
+          "Unisci limone, sale, vaniglia e infine la panna.",
+          "Aggiungi la carta da forno stropicciata e cuoci per 40 minuti.",
+          "Fai raffreddare completamente prima di riporre in frigorifero per tutta la notte."
+        ],
+        "tag": [
+          "dessert",
+          "cheesecake",
+          "basque cheesecake",
+          "dolce"
+        ],
+        "da_verificare": [
+          "Quantità esatte degli ingredienti non specificate nel video",
+          "Temperatura del forno non specificata",
+          "Dosi per le porzioni non indicate"
+        ]
+      }
+    ],
+    "warnings_count": 3
+  }
+}

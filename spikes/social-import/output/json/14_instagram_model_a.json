@@ -1,0 +1,121 @@
+{
+  "reel_id": 14,
+  "url": "https://www.instagram.com/p/DRHXGmpit8r/",
+  "platform": "Instagram",
+  "quantities_location_declared": "non ci sono le quantità",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 5.167,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 76,
+    "thumbnail_url": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/583802363_18547535674055167_409656099957918451_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzc2NzA4MTIyMjIwNDQ4MTMyMzE4NTQ3NTM1NjY4MDU1MTY3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjMyMTYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=0Y_vhXq7JfAQ7kNvwF-ix2h&_nc_oc=AdoZ4qv6A6VyLgnD-aTVXDWBHHxDLQdbU7KbjSIuUCU_JK0hcS18NnStfPISImg664BtrYC9kVluRbfP0zUak_bK&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=RzFzKFz6tJkZsnHy5krZ6Q&_nc_ss=70689&oh=00_AQTp-JmVIB5uoR7wHtLqOKrK-zuinHtOjqacrnu0PpExrg&oe=6AFBA836",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 32.323,
+    "total_time_s": 37.49,
+    "input_tokens": 4153,
+    "output_tokens": 832,
+    "total_tokens": 4985,
+    "estimated_cost_usd": 0.003326,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Uovo alla Milanese e cime di rapa piccanti",
+        "porzioni": null,
+        "tempo": "4 minuti e mezzo",
+        "ingredienti": [
+          {
+            "quantita": "4 e mezzo",
+            "unita": "minuti",
+            "alimento": "uovo",
+            "nota": "bollito"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "farina",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "pane grattugiato",
+            "nota": "eventualmente con aggiunta di fiocchi di mais o cornflakes"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio",
+            "nota": "per friggere"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "peperoncino",
+            "nota": "in polvere o semi"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "aglio",
+            "nota": "facoltativo"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "cime di rapa",
+            "nota": "o in alternativa spinaci, erbette o catalogna"
+          },
+          {
+            "quantita": "1",
+            "unita": "gocCino",
+            "alimento": "aceto balsamico",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "pepe",
+            "nota": null
+          }
+        ],
+        "passaggi": [
+          "Portare l'acqua a ebollizione e cuocere l'uovo per 4 minuti e mezzo, poi toglierlo dall'acqua e farlo raffreddare con estrema calma.",
+          "Spellare l'uovo con estrema delicatezza.",
+          "Passare l'uovo nella farina, nell'uovo e nel pane grattugiato.",
+          "Lasciare riposare l'uovo impanato per un quarto d'ora o venti minuti in frigorifero o a temperatura ambiente.",
+          "In una padella, scaldare un po' di olio con un pizzico di peperoncino, eventualmente aglio e le cime di rapa.",
+          "Saltare le verdure aggiungendo un gocCino di aceto balsamico.",
+          "Friggere l'uovo impanato facendo attenzione a non romperlo.",
+          "Servire l'uovo croccante accompagnato dalle verdure piccanti."
+        ],
+        "tag": [
+          "uovo",
+          "milanese",
+          "cime di rapa",
+          "ricetta",
+          "secondo"
+        ],
+        "da_verificare": [
+          "Quantità precise degli ingredienti non specificate.",
+          "Tempo di riposo in frigorifero opzionale tra 15 e 20 minuti."
+        ]
+      }
+    ],
+    "warnings_count": 2
+  }
+}

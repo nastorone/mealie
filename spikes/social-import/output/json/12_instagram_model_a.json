@@ -1,0 +1,106 @@
+{
+  "reel_id": 12,
+  "url": "https://www.instagram.com/p/DWExk3uRcr4/",
+  "platform": "Instagram",
+  "quantities_location_declared": "non ci sono le quantità",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 5.755,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 46,
+    "thumbnail_url": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/656717532_18581016796055167_4198877812041736290_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzg1NjQyNTIxODk0ODMxOTk5MjE4NTgxMDE2NzkzMDU1MTY3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=7ICR-II0JxgQ7kNvwFGRVsm&_nc_oc=AdrI_fqDelS9cF00REed57x9afrELuy7yeirT6sYB4aiGBvujJ8F_6x-hmvY8xZ6Y5ds9jLz0Q9BzV9dX5DV7EUg&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=ZflHyfFn_zzEr2OetUVeGg&_nc_ss=70689&oh=00_AQQ0fkyvPrYEz4A3zWkmu9KQS6MU3uMfQZM2mlMXq_beEQ&oe=6AFBBE15",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 14.436,
+    "total_time_s": 20.191,
+    "input_tokens": 2616,
+    "output_tokens": 612,
+    "total_tokens": 3228,
+    "estimated_cost_usd": 0.002315,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Pasta con le noci",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "pasta",
+            "nota": "formato corto consigliato"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "noci",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "spicchio",
+            "alimento": "aglio",
+            "nota": "tagliato a metà"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio extravergine d'oliva",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "rosmarino",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "miele di trifoglio",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "pepe",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "formaggio",
+            "nota": null
+          }
+        ],
+        "passaggi": [
+          "In una padella fate saltare le noci con un filo di olio extravergine d'oliva, lo spicchio d'aglio a metà e il rosmarino.",
+          "Aggiungete il miele di trifoglio, un po' di pepe e un goccio di acqua della pasta.",
+          "Scolate tutto, compreso il rosmarino.",
+          "Mettete la pasta nella padella a fuoco spento insieme al condimento.",
+          "Aggiungete un po' di pepe, un po' di formaggio e un goccino di olio.",
+          "Mantecate e servite."
+        ],
+        "tag": [
+          "primo piatto",
+          "pasta",
+          "ricetta facile"
+        ],
+        "da_verificare": [
+          "Quantità esatte degli ingredienti non specificate",
+          "Tempo di preparazione e cottura non indicati",
+          "Numero di porzioni non specificato"
+        ]
+      }
+    ],
+    "warnings_count": 3
+  }
+}

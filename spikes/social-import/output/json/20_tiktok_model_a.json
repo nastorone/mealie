@@ -1,0 +1,117 @@
+{
+  "reel_id": 20,
+  "url": "https://www.tiktok.com/@louloukitchen_/video/7301006541291900192?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+  "platform": "TikTok",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "mobile_scrape_fallback",
+    "time_s": 1.554,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 670,
+    "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oAKSTVEiP7IhBIqEoAiyAYdBoPnVmh0sfTqCm1~tplv-tiktokx-origin.image?dr=10395&x-expires=1794664800&x-signature=oWjrTurOA4mvgkttz73y8UVGIlA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=55bbe6a9&idc=useast2b",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 12.953,
+    "total_time_s": 14.507,
+    "input_tokens": 1270,
+    "output_tokens": 714,
+    "total_tokens": 1984,
+    "estimated_cost_usd": 0.002166,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Soupe à l'oignon",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "5",
+            "unita": null,
+            "alimento": "oignons",
+            "nota": null
+          },
+          {
+            "quantita": "30",
+            "unita": "g",
+            "alimento": "beurre",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "cas",
+            "alimento": "farine",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "petit verre",
+            "alimento": "vin blanc",
+            "nota": null
+          },
+          {
+            "quantita": "150",
+            "unita": "g",
+            "alimento": "comté râpé",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "thym",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sel",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "poivre",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "cube",
+            "alimento": "bouillon",
+            "nota": "dilué dans 500 ml d'eau"
+          },
+          {
+            "quantita": "3",
+            "unita": null,
+            "alimento": "tranches de pain de campagne",
+            "nota": null
+          }
+        ],
+        "passaggi": [
+          "Épluchez et émincez les oignons",
+          "Faites les revenir dans le beurre pendant 20 min, il faut qu'ils soient bien caramélisés",
+          "Ajoutez la farine mélangez bien puis déglacez avec le vin, mélangez et rajoutez le bouillon",
+          "Badigeonnez d'huile d'olive vos tranches de pain et enfournez 6 min à 200",
+          "Versez votre soupe dans un bol allant au four, ajoutez le pain sur le dessus et le fromage râpé puis enfournez 10 min à 180"
+        ],
+        "tag": [
+          "zuppa",
+          "cipolla",
+          "piatto unico",
+          "francia"
+        ],
+        "da_verificare": [
+          "Temperatura di cottura del pane specificata come 200 (presumibilmente gradi Celsius)",
+          "Temperatura della zuppa in forno specificata come 180 (presumibilmente gradi Celsius)"
+        ]
+      }
+    ],
+    "warnings_count": 2
+  }
+}

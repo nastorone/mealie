@@ -1,0 +1,32 @@
+{
+  "reel_id": 11,
+  "url": "https://www.instagram.com/p/DXJfBItikNz/?img_index=1",
+  "platform": "Instagram (carosello)",
+  "quantities_location_declared": "carousel con idee per marinare il pollo",
+  "notes_declared": "carousel con idee per marinare il pollo",
+  "retrieval": {
+    "status": "FAILED",
+    "method": "yt-dlp",
+    "time_s": 3.387,
+    "has_caption": false,
+    "has_audio": false,
+    "has_cover": false,
+    "caption_char_len": 0,
+    "thumbnail_url": null,
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": true,
+    "latency_s": 3.769,
+    "total_time_s": 7.156,
+    "input_tokens": 367,
+    "output_tokens": 5,
+    "total_tokens": 823,
+    "estimated_cost_usd": 0.000596,
+    "recipes_count": 0,
+    "recipes": [],
+    "warnings_count": 0
+  }
+}

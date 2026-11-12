@@ -1,0 +1,120 @@
+{
+  "reel_id": 18,
+  "url": "https://www.tiktok.com/@ilariafoodandhome/video/7442386233684151574?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+  "platform": "TikTok",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "mobile_scrape_fallback",
+    "time_s": 1.578,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 2218,
+    "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oUkgSEVcAZrEKnknReqCFun9bEQnIAFRACASfD~tplv-tiktokx-origin.image?dr=10395&x-expires=1794664800&x-signature=tpJC%2FlFvxruGxCeLsjYA68vTwE8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=55bbe6a9&idc=useast2b",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": true,
+    "latency_s": 16.79,
+    "total_time_s": 18.368,
+    "input_tokens": 2516,
+    "output_tokens": 935,
+    "total_tokens": 4877,
+    "estimated_cost_usd": 0.012189,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Risotto ai Cachi",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "160",
+            "unita": "g",
+            "alimento": "riso Carnaroli",
+            "nota": null
+          },
+          {
+            "quantita": "1/2",
+            "unita": null,
+            "alimento": "cipolla bianca",
+            "nota": "tritata finemente"
+          },
+          {
+            "quantita": "30",
+            "unita": "g",
+            "alimento": "margarina",
+            "nota": null
+          },
+          {
+            "quantita": "50",
+            "unita": "ml",
+            "alimento": "vino bianco secco",
+            "nota": null
+          },
+          {
+            "quantita": "350",
+            "unita": "ml",
+            "alimento": "brodo vegetale",
+            "nota": "bollente, fatto con sedano, carota e cipolla"
+          },
+          {
+            "quantita": "2",
+            "unita": "cucchiai",
+            "alimento": "spalmabile di anacardi",
+            "nota": "fatto in casa"
+          },
+          {
+            "quantita": "1",
+            "unita": null,
+            "alimento": "caco maturo",
+            "nota": "la polpa frullata e ridotta in purea"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "pepe di Sichuan",
+            "nota": "o pepe nero"
+          }
+        ],
+        "passaggi": [
+          "Prepara il brodo vegetale mettendo a bollire 1 cipolla bianca, 1 carota e una costa di sedano per 30 minuti.",
+          "Poni il riso carnaroli in un tegame capiente e fallo tostare a fiamma alta mescolando spesso per 5 minuti, poi mettilo da parte in una ciotola.",
+          "Nello stesso tegame fai sciogliere la margarina e metti a soffriggere mezza cipolla bianca tritata finemente a fiamma media.",
+          "Riaggiungi il riso in pentola e fallo tostare ancora con il fondo di cipolla per 3 minuti.",
+          "Sfuma il riso con il vino bianco secco, mescola e fai evaporare completamente l'alcol.",
+          "Aggiungi metà del brodo vegetale caldo a coprire il riso, mescola un'ultima volta e lascia cuocere a fiamma media per 5 minuti senza girare.",
+          "Aggiungi il restante brodo vegetale a coprire e prosegui la cottura senza mescolare.",
+          "A cottura ultimata togli il tegame dal fuoco e manteca il risotto con lo spalmabile di anacardi.",
+          "Impiatta il risotto e guarniscilo con ciuffetti di spalmabile di anacardi, la purea di cachi e una macinata di pepe di Sichuan o pepe nero."
+        ],
+        "tag": [
+          "risotto",
+          "primo piatto",
+          "vegano",
+          "senza glutine",
+          "senza lattosio",
+          "autunno",
+          "cachi"
+        ],
+        "da_verificare": [
+          "Numero di porzioni non specificato.",
+          "Tempo totale di preparazione/cottura non indicato.",
+          "Quantità di sale non specificata.",
+          "Refuso nella didascalia: '1/2 g cipolla bianca' interpretato come mezza cipolla."
+        ]
+      }
+    ],
+    "warnings_count": 4
+  }
+}

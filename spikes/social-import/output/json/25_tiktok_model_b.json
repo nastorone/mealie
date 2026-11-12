@@ -1,0 +1,32 @@
+{
+  "reel_id": 25,
+  "url": "https://www.tiktok.com/@healthfoodrecipes/video/7332498520693329183?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+  "platform": "TikTok",
+  "quantities_location_declared": "nel video",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "mobile_scrape_fallback",
+    "time_s": 1.485,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 82,
+    "thumbnail_url": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/o0OoE1FWQLVzoFZCEADAISwwRXlARBrEbkEff2~tplv-tiktokx-origin.image?dr=10395&x-expires=1794664800&x-signature=dYwG05pJJFyqw1rC8LVSgLCSp5g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=55bbe6a9&idc=useast2b",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": false,
+    "latency_s": 8.919,
+    "total_time_s": 10.404,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_cost_usd": 0.0,
+    "recipes_count": 0,
+    "recipes": [],
+    "warnings_count": 0
+  }
+}

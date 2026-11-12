@@ -1,0 +1,81 @@
+{
+  "reel_id": 19,
+  "url": "https://www.tiktok.com/@nutrirsi_di_emozioni/video/7167336600635051270?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+  "platform": "TikTok",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "mobile_scrape_fallback",
+    "time_s": 1.283,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 499,
+    "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-p-0068/35a37b44db394299ab6d70fd2cbb7c9a_1668775612~tplv-tiktokx-origin.image?dr=10395&x-expires=1794664800&x-signature=IZLU9Qd3VIpuD4aei0nhgAIHsrg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=55bbe6a9&idc=useast2b",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 6.852,
+    "total_time_s": 8.135,
+    "input_tokens": 5329,
+    "output_tokens": 365,
+    "total_tokens": 5694,
+    "estimated_cost_usd": 0.002511,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Risotto con cavolo nero e melograno",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "riso",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "cavolo nero",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "melograno",
+            "nota": null
+          }
+        ],
+        "passaggi": [],
+        "tag": [
+          "risotto",
+          "cavolonero",
+          "melograno",
+          "ricettepertuttalafamiglia",
+          "senzaglutine",
+          "riso",
+          "verdura",
+          "ricetta",
+          "ricettefacili",
+          "ricetteveloci",
+          "ricettesane",
+          "cucinavegetale",
+          "cucinavegana",
+          "pranzo",
+          "cena"
+        ],
+        "da_verificare": [
+          "Dosi non specificate nel testo, la didascalia indica 'DOSI NEI COMMENTI'.",
+          "Passaggi della preparazione completamente assenti nel post.",
+          "Quantità degli ingredienti non specificate."
+        ]
+      }
+    ],
+    "warnings_count": 3
+  }
+}

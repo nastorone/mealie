@@ -1,0 +1,32 @@
+{
+  "reel_id": 22,
+  "url": "https://www.youtube.com/watch?v=gLAKdTiQRwI",
+  "platform": "YouTube (video)",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 4.926,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 971,
+    "thumbnail_url": "https://i.ytimg.com/vi_webp/gLAKdTiQRwI/maxresdefault.webp",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": false,
+    "latency_s": 9.002,
+    "total_time_s": 13.928,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_cost_usd": 0.0,
+    "recipes_count": 0,
+    "recipes": [],
+    "warnings_count": 0
+  }
+}

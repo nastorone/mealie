@@ -1,0 +1,32 @@
+{
+  "reel_id": 13,
+  "url": "https://www.instagram.com/p/DVGVJFPDT_7/",
+  "platform": "Instagram",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 4.533,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 980,
+    "thumbnail_url": "https://scontent-mxp1-1.cdninstagram.com/v/t51.71878-15/639747456_2086342001907959_360217706555849636_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzgzODg0ODcxNTQ1MzE4NjA0MzE3OTQzNTk2Nzk5MTIwMTY0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=4e47ClW-AXkQ7kNvwFe1coC&_nc_oc=AdqjtRPlHFul90-YCisykMph_E_8dE8dY-QgjjJXtK00DpyblTtPdFj5j82zK7Q9vmcnsskH0JRHXtNJppgdU5zM&_nc_zt=23&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_gid=y6Urt8PxwdAareK6Iz1IEQ&_nc_ss=70689&oh=00_AQTpZVOicT4uT3dzRwgE8Twz0PZPdN0kUwhO4EvkQG9G1w&oe=6AFBA5B4",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": false,
+    "latency_s": 8.439,
+    "total_time_s": 12.972,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_cost_usd": 0.0,
+    "recipes_count": 0,
+    "recipes": [],
+    "warnings_count": 0
+  }
+}

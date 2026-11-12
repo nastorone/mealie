@@ -1,0 +1,98 @@
+{
+  "reel_id": 16,
+  "url": "https://www.tiktok.com/@sebastian_fitarau/video/7335534926143474977?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+  "platform": "TikTok",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "mobile_scrape_fallback",
+    "time_s": 1.422,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 453,
+    "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/809705f5685849a2ab4be9c52cf59550_1707937325~tplv-tiktokx-origin.image?dr=10395&x-expires=1794664800&x-signature=T05IWSDo4TcyV0nQ9eY3r1QyEN4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=55bbe6a9&idc=useast2b",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 5.14,
+    "total_time_s": 6.562,
+    "input_tokens": 2021,
+    "output_tokens": 465,
+    "total_tokens": 2486,
+    "estimated_cost_usd": 0.001769,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Pasta patate e cozze",
+        "porzioni": "2",
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "180",
+            "unita": "g",
+            "alimento": "paccheri",
+            "nota": null
+          },
+          {
+            "quantita": "300",
+            "unita": "g",
+            "alimento": "cozze",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": null,
+            "alimento": "patata",
+            "nota": "media"
+          },
+          {
+            "quantita": "0,1",
+            "unita": null,
+            "alimento": "stigmi di zafferano",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "prezzemolo fresco",
+            "nota": "q.b."
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "sale",
+            "nota": "q.b."
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "pepe",
+            "nota": "q.b."
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "olio evo",
+            "nota": "q.b."
+          }
+        ],
+        "passaggi": [],
+        "tag": [
+          "pasta",
+          "patate",
+          "cozze",
+          "primipiatti"
+        ],
+        "da_verificare": [
+          "Mancano completamente i passaggi della preparazione."
+        ]
+      }
+    ],
+    "warnings_count": 1
+  }
+}

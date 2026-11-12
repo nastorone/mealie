@@ -1,0 +1,82 @@
+{
+  "reel_id": 5,
+  "url": "https://www.instagram.com/p/De9vB8pomHd/",
+  "platform": "Instagram",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 3.174,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 614,
+    "thumbnail_url": "https://scontent-mxp1-1.cdninstagram.com/v/t15.5256-10/867763693_1406264711697030_1094954378347340714_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNjU3MzI4NDcxMjg2NjI2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZmlyc3RfZnJhbWVfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=tzgX9FhJDN8Q7kNvwHKlW2V&_nc_oc=Adq6tJzucL0vN6ZNVhencMPyHPr8zo7anK3B_UbNFi19rG3_qX4ETIl5xzjnPNxe0R21A0Lqe1X8PPWQb1-vAwTF&_nc_zt=23&_nc_ht=scontent-mxp1-1.cdninstagram.com&_nc_gid=x7P62MEzEkTbBehuz6zXkw&_nc_ss=70689&oh=00_AQTxjDtGOmip4qK0OPLJRE1hSw3WWzsboKVSfJv7pqQRiQ&oe=6AFB87AA",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": true,
+    "latency_s": 324.417,
+    "total_time_s": 327.591,
+    "input_tokens": 1070,
+    "output_tokens": 310,
+    "total_tokens": 2461,
+    "estimated_cost_usd": 0.004395,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Rudolph Brownies",
+        "porzioni": "6 rettangoli",
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "1",
+            "unita": "confezione",
+            "alimento": "Preparato per brownies Betty Crocker",
+            "nota": "più ingredienti richiesti dalla confezione"
+          },
+          {
+            "quantita": "1-2",
+            "unita": "bustine",
+            "alimento": "M&M's",
+            "nota": "rossi e bianchi"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Pretzel",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Gocce di cioccolato",
+            "nota": null
+          }
+        ],
+        "passaggi": [
+          "Seguire le istruzioni sulla confezione per la preparazione dei brownies Betty Crocker, rivestendo il fondo della teglia con carta da forno per evitare che si attacchino.",
+          "Una volta cotti, lasciarli raffreddare completamente.",
+          "Tagliare i brownies in 6 rettangoli.",
+          "Sciogliere le gocce di cioccolato e decorare i rettangoli con i pretzel e le M&M's per creare la figura delle renne."
+        ],
+        "tag": [
+          "dolci natalizi",
+          "brownies",
+          "ricetta di natale",
+          "dolci facili",
+          "baking"
+        ],
+        "da_verificare": [
+          "Tempo di preparazione e cottura non specificato.",
+          "Quantità non specificata per pretzel e gocce di cioccolato.",
+          "Ingredienti specifici richiesti dalla confezione di preparato per brownies non indicati."
+        ]
+      }
+    ],
+    "warnings_count": 3
+  }
+}

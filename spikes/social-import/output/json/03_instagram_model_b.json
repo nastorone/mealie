@@ -1,0 +1,114 @@
+{
+  "reel_id": 3,
+  "url": "https://www.instagram.com/p/Dfep2wIAgJ6/",
+  "platform": "Instagram",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 2.719,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 390,
+    "thumbnail_url": "https://scontent-mxp2-1.cdninstagram.com/v/t51.71878-15/890458184_2270141403553514_7175890114748545467_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNTgzOTE5OTM0ODQ1ODEwNjk3NjIzMTA0ODQ0MDkwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=wn8scUaC0KIQ7kNvwG4rQeX&_nc_oc=AdozVS82bnFr6b5jBSGw1IaZT71gXXb0TZT3e7Yn0uoCo0T6Q0L4AUGV5gHvdUXXNAIVC8hInRSyvzOIqquO6KgJ&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=O1Bx4FLeXDeZzqkNx86KlA&_nc_ss=70689&oh=00_AQQs50UMBtx23X205KrmqyoSW7CKUBv_pLY3fVcYj3zEBQ&oe=6AFBAEC3",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": true,
+    "latency_s": 11.094,
+    "total_time_s": 13.813,
+    "input_tokens": 1632,
+    "output_tokens": 732,
+    "total_tokens": 3290,
+    "estimated_cost_usd": 0.009036,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Bowl Invernale",
+        "porzioni": null,
+        "tempo": "30 minuti",
+        "ingredienti": [
+          {
+            "quantita": "500",
+            "unita": "g",
+            "alimento": "Broccoli",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": null,
+            "alimento": "Patata americana",
+            "nota": null
+          },
+          {
+            "quantita": "250",
+            "unita": "g",
+            "alimento": "Ceci",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Paprika",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Curry",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "Sale",
+            "nota": null
+          },
+          {
+            "quantita": "2",
+            "unita": "cucchiai",
+            "alimento": "Olio d'oliva",
+            "nota": null
+          },
+          {
+            "quantita": "2",
+            "unita": "cucchiaini",
+            "alimento": "Salsa Tahin",
+            "nota": null
+          },
+          {
+            "quantita": "1/2",
+            "unita": null,
+            "alimento": "Succo di limone",
+            "nota": null
+          }
+        ],
+        "passaggi": [
+          "Tagliare i broccoli a cimette e la patata americana a cubetti.",
+          "Disporre in una teglia da forno i broccoli, la patata americana a cubetti e i ceci.",
+          "Condire il tutto con paprika, curry, sale e olio d'oliva, mescolando bene per distribuire le spezie.",
+          "Cuocere in forno a 200°C per 30 minuti.",
+          "Preparare la salsa mescolando i due cucchiaini di salsa tahin con il succo di mezzo limone (e allungando con poca acqua se necessario).",
+          "Servire le verdure e i ceci arrostiti in una bowl condendoli con la salsa al tahin."
+        ],
+        "tag": [
+          "bowl",
+          "piatto unico",
+          "insalata invernale",
+          "vegetariano",
+          "al forno"
+        ],
+        "da_verificare": [
+          "Numero di porzioni non specificato.",
+          "Quantità esatte di paprika, curry e sale non indicate nella didascalia.",
+          "Nel video viene aggiunta un poco d'acqua per ammorbidire la salsa tahin con il limone, ma non è citata negli ingredienti della didascalia."
+        ]
+      }
+    ],
+    "warnings_count": 3
+  }
+}

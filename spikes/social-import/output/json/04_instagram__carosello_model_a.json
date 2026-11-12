@@ -1,0 +1,103 @@
+{
+  "reel_id": 4,
+  "url": "https://www.instagram.com/p/Daz7ohNDDEH/?img_index=1",
+  "platform": "Instagram (carosello)",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "caso difficile: tante ricette in un unico carousel, tutte le quantità sono indicate nella descrizione",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 9.781,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": false,
+    "caption_char_len": 2148,
+    "thumbnail_url": null,
+    "carousel_images_count": 9
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 26.815,
+    "total_time_s": 36.596,
+    "input_tokens": 2261,
+    "output_tokens": 660,
+    "total_tokens": 2921,
+    "estimated_cost_usd": 0.002328,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Fagottini scenografici",
+        "porzioni": null,
+        "tempo": "20 minuti",
+        "ingredienti": [
+          {
+            "quantita": "1",
+            "unita": null,
+            "alimento": "pasta sfoglia rettangolare",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "melanzane",
+            "nota": "tagliate a quadratini circa 14x14 cm"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "passata di pomodoro",
+            "nota": "meglio se salsa di pomodoro grigliata"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "provola",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "parmigiano",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "basilico",
+            "nota": null
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "latte",
+            "nota": "per spennellare"
+          },
+          {
+            "quantita": null,
+            "unita": null,
+            "alimento": "semi di sesamo",
+            "nota": "facoltativi"
+          }
+        ],
+        "passaggi": [
+          "Tagliate la pasta sfoglia e ricavate dei quadrati circa 14 per 14.",
+          "Incideteli come mostrato nel video e poi aggiungete una melanzana grigliata, della salsa di pomodoro, un pezzetto di provola, una spolverata di parmigiano e una foglia di basilico.",
+          "Sigillate il fagottino e richiudetelo con le strisce di sfoglia.",
+          "Spennellateli con un uovo e il latte, se volete aggiungete dei semi di sesamo e cuoceteli in forno a 180 gradi per una ventina di minuti."
+        ],
+        "tag": [
+          "ricette",
+          "ricettefacili",
+          "vegetariano",
+          "ricetteveloci"
+        ],
+        "da_verificare": [
+          "Quantità precise di melanzane, pomodoro, provola, parmigiano, basilico e latte non specificate nella didascalia."
+        ]
+      }
+    ],
+    "warnings_count": 1
+  }
+}

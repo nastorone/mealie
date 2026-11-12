@@ -1,0 +1,49 @@
+{
+  "reel_id": 23,
+  "url": "https://www.tiktok.com/@myrtoslondon/video/7652093573688478998?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+  "platform": "TikTok",
+  "quantities_location_declared": "nel video",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "mobile_scrape_fallback",
+    "time_s": 1.35,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 242,
+    "thumbnail_url": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oUfSjAjj2IArVIQUBYLeLFAPxZfAUcIVjAG2Ir~tplv-tiktokx-origin.image?dr=10395&x-expires=1794664800&x-signature=y4Vo4WY5n8jCc1HbuTTzK0O7RWQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=55bbe6a9&idc=useast2b",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 4.197,
+    "total_time_s": 5.547,
+    "input_tokens": 1917,
+    "output_tokens": 123,
+    "total_tokens": 2040,
+    "estimated_cost_usd": 0.000883,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Tzatziki",
+        "porzioni": null,
+        "tempo": null,
+        "ingredienti": [],
+        "passaggi": [],
+        "tag": [
+          "dip",
+          "greek",
+          "summer"
+        ],
+        "da_verificare": [
+          "Nessun ingrediente specificato nel testo",
+          "Nessun passaggio di preparazione specificato nel testo"
+        ]
+      }
+    ],
+    "warnings_count": 2
+  }
+}

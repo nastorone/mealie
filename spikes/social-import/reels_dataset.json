@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.instagram.com/p/DfAR_ZcyP0-/",
+    "platform": "Instagram",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "url": "https://www.instagram.com/p/DfctgEEMNVY/",
+    "platform": "Instagram",
+    "quantities_location": "non ci sono le quantità",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "url": "https://www.instagram.com/p/Dfep2wIAgJ6/",
+    "platform": "Instagram",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "url": "https://www.instagram.com/p/Daz7ohNDDEH/?img_index=1",
+    "platform": "Instagram (carosello)",
+    "quantities_location": "descrizione",
+    "notes": "caso difficile: tante ricette in un unico carousel, tutte le quantità sono indicate nella descrizione"
+  },
+  {
+    "id": 5,
+    "url": "https://www.instagram.com/p/De9vB8pomHd/",
+    "platform": "Instagram",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "url": "https://www.instagram.com/p/DfNe-UVNTXf/",
+    "platform": "Instagram",
+    "quantities_location": "non ci sono quantità",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "url": "https://www.instagram.com/p/Dc-58J5AIDX/",
+    "platform": "Instagram",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "url": "https://www.instagram.com/p/DfCPa-6xI2U/",
+    "platform": "Instagram",
+    "quantities_location": "caso limite: menu completo in un reel",
+    "notes": "menu completo in un reel"
+  },
+  {
+    "id": 9,
+    "url": "https://www.instagram.com/p/DYzGn8kIfxy/",
+    "platform": "Instagram",
+    "quantities_location": "caso difficile: non ci sono le quantità, nè i passaggi, si possono derivare?",
+    "notes": "non ci sono le quantità, nè i passaggi, si possono derivare?"
+  },
+  {
+    "id": 10,
+    "url": "https://www.instagram.com/p/C_Qbt1aszBe/",
+    "platform": "Instagram",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "url": "https://www.instagram.com/p/DXJfBItikNz/?img_index=1",
+    "platform": "Instagram (carosello)",
+    "quantities_location": "carousel con idee per marinare il pollo",
+    "notes": "carousel con idee per marinare il pollo"
+  },
+  {
+    "id": 12,
+    "url": "https://www.instagram.com/p/DWExk3uRcr4/",
+    "platform": "Instagram",
+    "quantities_location": "non ci sono le quantità",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "url": "https://www.instagram.com/p/DVGVJFPDT_7/",
+    "platform": "Instagram",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "url": "https://www.instagram.com/p/DRHXGmpit8r/",
+    "platform": "Instagram",
+    "quantities_location": "non ci sono le quantità",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "url": "https://www.tiktok.com/@elenazeng_/video/7706222764516068641?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+    "platform": "TikTok",
+    "quantities_location": "nel video",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "url": "https://www.tiktok.com/@sebastian_fitarau/video/7335534926143474977?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+    "platform": "TikTok",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "url": "https://www.tiktok.com/@sebastian_fitarau/video/7412221103088749857?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+    "platform": "TikTok",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "url": "https://www.tiktok.com/@ilariafoodandhome/video/7442386233684151574?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+    "platform": "TikTok",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "url": "https://www.tiktok.com/@nutrirsi_di_emozioni/video/7167336600635051270?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+    "platform": "TikTok",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "url": "https://www.tiktok.com/@louloukitchen_/video/7301006541291900192?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+    "platform": "TikTok",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "url": "https://www.youtube.com/shorts/t3TtSfWRYhw",
+    "platform": "YouTube (Shorts)",
+    "quantities_location": "nel video",
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "url": "https://www.youtube.com/watch?v=gLAKdTiQRwI",
+    "platform": "YouTube (video)",
+    "quantities_location": "descrizione",
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "url": "https://www.tiktok.com/@myrtoslondon/video/7652093573688478998?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+    "platform": "TikTok",
+    "quantities_location": "nel video",
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "url": "https://www.instagram.com/p/DByTr88o-X_/",
+    "platform": "Instagram",
+    "quantities_location": "descrizione e video",
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "url": "https://www.tiktok.com/@healthfoodrecipes/video/7332498520693329183?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+    "platform": "TikTok",
+    "quantities_location": "nel video",
+    "notes": ""
+  }
+]

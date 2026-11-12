@@ -1,0 +1,197 @@
+{
+  "reel_id": 10,
+  "url": "https://www.instagram.com/p/C_Qbt1aszBe/",
+  "platform": "Instagram",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 4.721,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 1887,
+    "thumbnail_url": "https://scontent-mxp2-1.cdninstagram.com/v/t51.71878-15/505772177_1457373721936969_6611485320556045301_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=MzQ0NTM3NTYxMTkyNjk0OTk4MjE0NTczNzM3MTE5MzY5NzA%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=WzMarSOKfK4Q7kNvwF_JVth&_nc_oc=Ado8ffGlnVQAhppHQGF6R_bgy9KJsBYd6TApip5nah_p2kwSGwUEQxzYPkdBo6C5FLJvmjviYV51P_0DlDdELEkG&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=vsdqOy5tSPBzpoQ94eCVwQ&_nc_ss=70689&oh=00_AQR703nXkD15M3HEuhruPC6qenEmYwRAavhGFtfTQubX0Q&oe=6AFB95C7",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash",
+    "model_tag": "model_b",
+    "success": true,
+    "latency_s": 25.197,
+    "total_time_s": 29.918,
+    "input_tokens": 2841,
+    "output_tokens": 1638,
+    "total_tokens": 7781,
+    "estimated_cost_usd": 0.019003,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Patate Pavè con Tartare di Filetto ed Emulsione",
+        "porzioni": "8 persone",
+        "tempo": "45 minuti di cottura + 1 notte di riposo",
+        "ingredienti": [
+          {
+            "quantita": "1200",
+            "unita": "g",
+            "alimento": "patate",
+            "nota": null
+          },
+          {
+            "quantita": "100",
+            "unita": "g",
+            "alimento": "burro",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "3",
+            "unita": "spicchi",
+            "alimento": "aglio",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "1",
+            "unita": "rametto",
+            "alimento": "rosmarino",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "30",
+            "unita": "g",
+            "alimento": "farina",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "700",
+            "unita": "ml",
+            "alimento": "latte",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "50",
+            "unita": "g",
+            "alimento": "parmigiano reggiano",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "q.b.",
+            "unita": null,
+            "alimento": "sale",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "q.b.",
+            "unita": null,
+            "alimento": "pepe",
+            "nota": "per la besciamella"
+          },
+          {
+            "quantita": "50",
+            "unita": "ml",
+            "alimento": "olio extravergine d'oliva",
+            "nota": "per l'emulsione"
+          },
+          {
+            "quantita": "30",
+            "unita": "ml",
+            "alimento": "olio di girasole",
+            "nota": "per l'emulsione"
+          },
+          {
+            "quantita": "50",
+            "unita": "ml",
+            "alimento": "latte",
+            "nota": "per l'emulsione"
+          },
+          {
+            "quantita": "1",
+            "unita": "cucchiaino",
+            "alimento": "miele",
+            "nota": "per l'emulsione"
+          },
+          {
+            "quantita": "1",
+            "unita": "pizzico",
+            "alimento": "sale",
+            "nota": "per l'emulsione"
+          },
+          {
+            "quantita": "500",
+            "unita": "g",
+            "alimento": "filetto di manzo",
+            "nota": "per la tartare"
+          },
+          {
+            "quantita": "15",
+            "unita": "g",
+            "alimento": "pomodori secchi sott'olio",
+            "nota": "per la tartare"
+          },
+          {
+            "quantita": "15",
+            "unita": "g",
+            "alimento": "cetriolini sott'aceto",
+            "nota": "per la tartare"
+          },
+          {
+            "quantita": "2",
+            "unita": "cucchiaini",
+            "alimento": "senape in grani",
+            "nota": "per la tartare"
+          },
+          {
+            "quantita": "3",
+            "unita": null,
+            "alimento": "tuorli d'uovo",
+            "nota": "per la tartare"
+          },
+          {
+            "quantita": "2",
+            "unita": "cucchiai",
+            "alimento": "olio extravergine d'oliva",
+            "nota": "per la tartare"
+          },
+          {
+            "quantita": "q.b.",
+            "unita": null,
+            "alimento": "sale",
+            "nota": "per la tartare"
+          },
+          {
+            "quantita": "q.b.",
+            "unita": null,
+            "alimento": "fior di sale",
+            "nota": "per la finitura"
+          },
+          {
+            "quantita": "30",
+            "unita": "g",
+            "alimento": "erba cipollina",
+            "nota": "per l'impiattamento"
+          }
+        ],
+        "passaggi": [
+          "Cuocere a fiamma bassa l'aglio e il rosmarino nel burro finché non diventa color nocciola. Aggiungere la farina e cuocere per 3 minuti.",
+          "Versare il latte bollente e mescolare. Una volta denso, incorporare il parmigiano reggiano e regolare di sale e pepe.",
+          "Affettare sottilmente le patate, immergerle in acqua e poi asciugarle bene.",
+          "Cospargere le fette di patate con la besciamella e comporle a strati in una teglia 20x15 cm.",
+          "Cuocere in forno ventilato a 160°C per 45 minuti.",
+          "Pressare con un peso sopra e lasciar riposare in frigorifero per una notte.",
+          "Preparare l'emulsione frullando il latte ed aggiungendo gli olii in tre parti graduali, insieme al miele e a un pizzico di sale fino a ottenere una consistenza simile alla maionese.",
+          "Tagliare a cubotti il filetto di manzo, tritare finemente i pomodori secchi e i cetriolini e unire tutti gli ingredienti della tartare (senape, tuorli, olio evo e sale).",
+          "Sformare lo sformato di patate, ritagliare un rettangolo e rosolarlo in padella a fiamma media su tutti i lati. Spolverare con fior di sale.",
+          "Impiattare ponendo abbondante tartare sopra il rettangolo di patata pavè, aggiungere l'emulsione e completare con erba cipollina."
+        ],
+        "tag": [
+          "patate pavè",
+          "tartare",
+          "secondo piatto",
+          "manzo"
+        ],
+        "da_verificare": []
+      }
+    ],
+    "warnings_count": 0
+  }
+}

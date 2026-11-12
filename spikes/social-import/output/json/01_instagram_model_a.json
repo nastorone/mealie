@@ -1,0 +1,129 @@
+{
+  "reel_id": 1,
+  "url": "https://www.instagram.com/p/DfAR_ZcyP0-/",
+  "platform": "Instagram",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "yt-dlp",
+    "time_s": 4.121,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 2000,
+    "thumbnail_url": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/870165782_1595794578967097_5403023761455367492_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNzI4OTk5MTA1ODY4NTI0NjE1OTU3OTQ5MzIzMDAzOTU%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX3VzZXJfdXBsb2FkZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=VewAvpn0OvEQ7kNvwHantUo&_nc_oc=AdoXoqOlvmzZU0onNCxo0afMvRy_twhmj06W9UmRC3zyUHYj_8WIaQPuiWjKYcID-Sagb835ouKi6rwk6Zm9ZsQa&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=IRgwwouJ3LPDQNVWP7Jtng&_nc_ss=70689&oh=00_AQRxhmXZNRHuzu4gbcAr22WJmm6KjM9XXDnEM3pfROnt0A&oe=6AFBA1C8",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": true,
+    "latency_s": 34.946,
+    "total_time_s": 39.067,
+    "input_tokens": 2427,
+    "output_tokens": 953,
+    "total_tokens": 3380,
+    "estimated_cost_usd": 0.003111,
+    "recipes_count": 1,
+    "recipes": [
+      {
+        "titolo": "Ragù di noci, castagne e funghi",
+        "porzioni": "2 o 3",
+        "tempo": null,
+        "ingredienti": [
+          {
+            "quantita": "3",
+            "unita": "manciate",
+            "alimento": "noci",
+            "nota": "sgusciate"
+          },
+          {
+            "quantita": "80",
+            "unita": "g",
+            "alimento": "castagne",
+            "nota": "al vapore, pelate"
+          },
+          {
+            "quantita": "1/2",
+            "unita": null,
+            "alimento": "cipolla bionda",
+            "nota": null
+          },
+          {
+            "quantita": "2",
+            "unita": null,
+            "alimento": "funghi Portobello",
+            "nota": "grossi (o circa 100 g di altri funghi a scelta)"
+          },
+          {
+            "quantita": "3 o 4",
+            "unita": null,
+            "alimento": "porcini secchi",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "cucchiaio",
+            "alimento": "olio evo",
+            "nota": null
+          },
+          {
+            "quantita": "3",
+            "unita": "cucchiai",
+            "alimento": "olio di semi",
+            "nota": null
+          },
+          {
+            "quantita": "q.b.",
+            "unita": null,
+            "alimento": "mix di aromi per arrosto",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "tazzina da caffè",
+            "alimento": "vino bianco",
+            "nota": null
+          },
+          {
+            "quantita": "1",
+            "unita": "cucchiaio",
+            "alimento": "salsa di soia",
+            "nota": null
+          },
+          {
+            "quantita": "q.b.",
+            "unita": null,
+            "alimento": "sale",
+            "nota": null
+          },
+          {
+            "quantita": "210",
+            "unita": "g",
+            "alimento": "tagliatelle di semola",
+            "nota": null
+          }
+        ],
+        "passaggi": [
+          "Trita tutti gli ingredienti prima della cottura: noci e castagne insieme, poi la cipolla fatta fine, concludi con i funghi freschi. Se usi il mixer, dai giusto qualche colpo delicato ai funghi.",
+          "Metti a mollo i funghi secchi e, una volta morbidi, frullali con un po' della loro acqua per renderli una crema.",
+          "Passa alla cottura, tostando dapprima le noci e le castagne in una casseruola con l'olio evo. Quando cominciano a scurirsi, spostale dal fuoco.",
+          "Nella stessa casseruola, soffriggi la cipolla con l'olio di semi e il mix di aromi per arrosto. Quando è imbiondita, aggiungi i funghi tritati e lasciali cuocere a fiamma vivace per circa 5 o 6 minuti.",
+          "Unisci quindi noci e castagne, poi sfuma col vino bianco e condisci con la salsa di soia.",
+          "Lega il tutto con la crema di funghi secchi e aggiungi anche un goccino d'acqua.",
+          "Lascia restringere per una decina di minuti, infine regola di sale prima di condirci le tagliatelle."
+        ],
+        "tag": [
+          "primo piatto",
+          "ricette vegetali",
+          "ragù",
+          "pasta",
+          "autunno"
+        ],
+        "da_verificare": []
+      }
+    ],
+    "warnings_count": 0
+  }
+}

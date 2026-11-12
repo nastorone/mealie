@@ -1,0 +1,32 @@
+{
+  "reel_id": 17,
+  "url": "https://www.tiktok.com/@sebastian_fitarau/video/7412221103088749857?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984",
+  "platform": "TikTok",
+  "quantities_location_declared": "descrizione",
+  "notes_declared": "",
+  "retrieval": {
+    "status": "SUCCESS",
+    "method": "mobile_scrape_fallback",
+    "time_s": 1.798,
+    "has_caption": true,
+    "has_audio": true,
+    "has_cover": true,
+    "caption_char_len": 2183,
+    "thumbnail_url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oAG6uNecQkSvAWxegPeQGgGfNviuE8MdIg98ju~tplv-tiktokx-origin.image?dr=10395&x-expires=1794664800&x-signature=RJmP9bpmGpCsavjYSBoaRAxiag4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=55bbe6a9&idc=useast2b",
+    "carousel_images_count": 0
+  },
+  "ai_extraction": {
+    "model": "gemini-3.5-flash-lite",
+    "model_tag": "model_a",
+    "success": false,
+    "latency_s": 15.695,
+    "total_time_s": 17.493,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "estimated_cost_usd": 0.0,
+    "recipes_count": 0,
+    "recipes": [],
+    "warnings_count": 0
+  }
+}

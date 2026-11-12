@@ -1,0 +1,26 @@
+reel_id,platform,url,oembed_success,oembed_time_s,oembed_error,meta_success,meta_time_s,meta_has_desc,meta_error
+1,Instagram,https://www.instagram.com/p/DfAR_ZcyP0-/,True,0.254,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.389,False,Nessun metadato utile o blocco login
+2,Instagram,https://www.instagram.com/p/DfctgEEMNVY/,True,0.254,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.388,False,Nessun metadato utile o blocco login
+3,Instagram,https://www.instagram.com/p/Dfep2wIAgJ6/,True,0.246,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.336,False,Nessun metadato utile o blocco login
+4,Instagram (carosello),https://www.instagram.com/p/Daz7ohNDDEH/?img_index=1,True,0.535,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.333,False,Nessun metadato utile o blocco login
+5,Instagram,https://www.instagram.com/p/De9vB8pomHd/,True,0.32,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.398,False,Nessun metadato utile o blocco login
+6,Instagram,https://www.instagram.com/p/DfNe-UVNTXf/,False,0.224,HTTP 400: Richiede Meta App ID e Client Token,False,0.811,False,Nessun metadato utile o blocco login
+7,Instagram,https://www.instagram.com/p/Dc-58J5AIDX/,True,0.314,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.987,False,Nessun metadato utile o blocco login
+8,Instagram,https://www.instagram.com/p/DfCPa-6xI2U/,True,0.305,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.32,False,Nessun metadato utile o blocco login
+9,Instagram,https://www.instagram.com/p/DYzGn8kIfxy/,True,0.361,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.632,False,Nessun metadato utile o blocco login
+10,Instagram,https://www.instagram.com/p/C_Qbt1aszBe/,True,0.296,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.324,False,Nessun metadato utile o blocco login
+11,Instagram (carosello),https://www.instagram.com/p/DXJfBItikNz/?img_index=1,True,0.232,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.725,False,Nessun metadato utile o blocco login
+12,Instagram,https://www.instagram.com/p/DWExk3uRcr4/,True,0.307,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.49,False,Nessun metadato utile o blocco login
+13,Instagram,https://www.instagram.com/p/DVGVJFPDT_7/,True,0.463,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.344,False,Nessun metadato utile o blocco login
+14,Instagram,https://www.instagram.com/p/DRHXGmpit8r/,True,0.239,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.569,False,Nessun metadato utile o blocco login
+15,TikTok,https://www.tiktok.com/@elenazeng_/video/7706222764516068641?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984,True,0.231,"Restituisce solo iframe e autore, titolo spesso nullo e nessun audio",True,0.478,True,
+16,TikTok,https://www.tiktok.com/@sebastian_fitarau/video/7335534926143474977?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984,True,0.217,"Restituisce solo iframe e autore, titolo spesso nullo e nessun audio",True,0.618,True,
+17,TikTok,https://www.tiktok.com/@sebastian_fitarau/video/7412221103088749857?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984,True,0.183,"Restituisce solo iframe e autore, titolo spesso nullo e nessun audio",True,0.454,True,
+18,TikTok,https://www.tiktok.com/@ilariafoodandhome/video/7442386233684151574?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984,True,0.231,"Restituisce solo iframe e autore, titolo spesso nullo e nessun audio",True,0.653,True,
+19,TikTok,https://www.tiktok.com/@nutrirsi_di_emozioni/video/7167336600635051270?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984,True,0.22,"Restituisce solo iframe e autore, titolo spesso nullo e nessun audio",True,0.432,True,
+20,TikTok,https://www.tiktok.com/@louloukitchen_/video/7301006541291900192?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984,True,0.191,"Restituisce solo iframe e autore, titolo spesso nullo e nessun audio",True,0.624,True,
+21,YouTube (Shorts),https://www.youtube.com/shorts/t3TtSfWRYhw,True,0.123,,False,0.255,False,Nessun metadato utile o blocco login
+22,YouTube (video),https://www.youtube.com/watch?v=gLAKdTiQRwI,True,0.127,,True,1.589,True,
+23,TikTok,https://www.tiktok.com/@myrtoslondon/video/7652093573688478998?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984,True,0.285,"Restituisce solo iframe e autore, titolo spesso nullo e nessun audio",True,0.434,True,
+24,Instagram,https://www.instagram.com/p/DByTr88o-X_/,True,0.539,"Restituisce solo widget iframe client-side, nessuna didascalia né traccia audio",False,0.492,False,Nessun metadato utile o blocco login
+25,TikTok,https://www.tiktok.com/@healthfoodrecipes/video/7332498520693329183?is_from_webapp=1&sender_device=pc&web_id=7707244914152637984,True,0.244,"Restituisce solo iframe e autore, titolo spesso nullo e nessun audio",True,0.672,True,
